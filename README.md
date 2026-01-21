@@ -1,10 +1,10 @@
 # Engineering Management Toolkit
 
-This repository is a collection of resources to jumpstart engineering management in your team or a new organization. It includes tools to facilitate operations and monitor developer experience. As there are as many management styles as there are managers, the resources are heavily opinionated by the author's preferences. The core philosophy of my management style is based on:
+This repository is a codification of my engineering philosophy. It is designed to reduce organizational latency, automate culture, and align technical output with business value. I've included tools I've used to facilitate operations and monitor developer experience. As there are as many management styles as there are managers, the resources are heavily opinionated by the author's preferences. The core philosophy of my management style is based on:
 
-- **Great Developer Experience**: Enabling the team to do their best work by reducing friction and removing obstacles
-- **Tailored coaching**: Identifying team member strengths and playing into them
-- **Ownership and empathy**: Guiding the team to take ownership and have empathy for the end users
+- **DevEx enabled Velocity**: Enabling the team to do their best work by reducing friction and removing obstacles.
+- **Tailored coaching**: Identifying team member strengths and playing into them. My goal is to coach teams to the point where I'm redundant.
+- **Product-minded Engineers**: Guiding the team to take ownership and have empathy for the end users. Everyone needs to know the "Why".
 
 These values guide the content of this repository.
 
