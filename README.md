@@ -3,7 +3,7 @@
 This repository is a codification of my engineering philosophy. It is designed to reduce organizational latency, automate culture, and align technical output with business value. I've included tools I've used to facilitate operations and monitor developer experience. As there are as many management styles as there are managers, the resources are heavily opinionated by the author's preferences. The core philosophy of my management style is based on:
 
 - **DevEx enabled Velocity**: Enabling the team to do their best work by reducing friction and removing obstacles.
-- **Tailored coaching**: Identifying team member strengths and playing into them. My goal is to coach teams to the point where I'm redundant.
+- **Tailored coaching**: Identifying team member strengths and playing into them. My goal is to coach teams to the point where they operate autonomously.
 - **Product-minded Engineers**: Guiding the team to take ownership and have empathy for the end users. Everyone needs to know the "Why".
 
 These values guide the content of this repository.
