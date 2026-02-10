@@ -21,3 +21,15 @@ The resources in this repository are arranged into the following sections:
 ### Developer Experience and Wellbeing
 
 Developer experience is the user experience of the engineering organization. In my opinion, a great organization is founded in a strong developer experience and fosters wellbeing of its employees. Without a culture like this engineers will jump ship in no time, as there are organizations that aim for a great developer experience and take care of their people. This is why an engineering leader needs to pay great attention to it. This section includes surveys and dashboards to monitor the sentiment of your engineers.
+
+## References
+
+This is a rough list of books and other references that have influenced my leadership style. Feel free to dig into them and see what they have to offer for you.
+
+- `The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth`, Amy C. Edmondson
+- `The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers―Straight Talk on the Challenges of Entrepreneurship`, Ben Horowitz
+- `The Lean Startup`, Eric Ries
+- `Rework`, Jason Fried
+- `Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy`, Amy C. Edmondson
+- `TRANSFORMED: Moving to the Product Operating Model`, Marty Cagan
+- `Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell`, Eric Schmidt
